@@ -1,0 +1,1 @@
+01-02@18:58:27 INFO  (EncryptionLog4JLogger.java:32)     - the encryption for file C:\Users\win7\Downloads\myfile2.txt with algorithm Shift Up took 0.005 milisecondes. The encrypted file is located in file C:\Users\win7\Downloads\myfile2_encrypted.txt
